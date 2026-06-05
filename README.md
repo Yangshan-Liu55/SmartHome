@@ -68,14 +68,12 @@ Examples include:
 
 ## Run project
 
-cd SmartHome
-cd SmartHome
+cd SmartHome\
 dotnet run
 
 ## Run unit test project
 
-cd SmartHome
-cd SmartHome.Tests
+cd SmartHome.Tests\
 dotnet test
 
 ## Example Console Output
